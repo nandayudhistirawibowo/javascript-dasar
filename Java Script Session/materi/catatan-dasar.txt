@@ -1,0 +1,13 @@
+alert ("heyyo bung") : memunculkan kebagian halaman browser
+
+console.log('hallo ini status pengembangan') : berfungsi sebagai pesan / catatan dari dev dalam pengembangan web
+
+var usia = 50 : berfungsi sebagai tag memberikan variable kepada usia yang bernilai 50 dalam contoh.
+const : variable juga (nilai gabisa di ubah)
+let : variable (dapat di ubah)
+
+#berfungsi sebagai logika input dari prompt menunjukkan usia =
+let usia = prompt('berapa usia kamu?')
+alert ('usia anda adalah ' + usia)
+
+" ` " : tanda ini merupakan backtick atau templatetisasi format penulisan pada java script
